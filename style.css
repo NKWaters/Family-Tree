@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    
+}
+
+#buttonnext {
+    font-size:20px;
+    background-color: red;
+    color: white;
+    height: 50px;
+    font-weight: bold;
+    width: 90px;
+}
+
+#NAMES {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 50px;
+    color: red;
+    font-weight: bold;
+    font-family: algerian;
+}
+
+#FamilyMemberImages {
+    height: 350px;
+}
